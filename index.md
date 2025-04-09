@@ -24,9 +24,9 @@ Here is the link to [Github](https://github.com).
 2. Seventh
 
 - [x] lab 1
-- [] lab 2
 
-![Cute Cat](https://media.tenor.com/dimT0JAAMb4AAAP1/cat-cute.mp4)
+![Cute Cat](https://media1.tenor.com/m/dimT0JAAMb4AAAAC/cat-cute.gif![image](https://github.com/user-attachments/assets/daf9e115-c366-4b2f-88e9-51289711f22f)
+)
 
 
 
