@@ -1,6 +1,6 @@
 # Welcome to Mohammed's User Page!
 
-## About me:
+## About me
 I'm a ~~2nd~~ **3rd** year **Math-CS** Major. 
 
 > This is a great quote
