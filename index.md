@@ -13,7 +13,7 @@ git pull
 
 Here is the link to [Github](https://github.com).
 
-[Go to **About me**](##about-me:).
+[Go to **About me**](##about-me).
 
 [README](./README.md).
 
@@ -25,7 +25,7 @@ Here is the link to [Github](https://github.com).
 
 - [x] lab 1
 
-![Cute Cat](https://media1.tenor.com/m/dimT0JAAMb4AAAAC/cat-cute.gif![image](https://github.com/user-attachments/assets/daf9e115-c366-4b2f-88e9-51289711f22f)
+![Cute Cat](https://preview.redd.it/v82wta66q5971.jpg?width=1080&crop=smart&auto=webp&s=ecccc514ef6169d7f0f4876aea3ff0cec51456bc![image](https://github.com/user-attachments/assets/f942d1ec-1c8a-497e-9319-5418079f4b1b)
 )
 
 
