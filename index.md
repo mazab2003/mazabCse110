@@ -25,6 +25,7 @@ Here is the link to [Github](https://github.com).
 
 - [x] lab 1
 
+**CUTE CAT!!**
 ![Cute Cat](https://preview.redd.it/v82wta66q5971.jpg?auto=webp&s=8d13ea0bb4de95723ad5ef7758be71a39bebe35a)
 
 
