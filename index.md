@@ -13,7 +13,7 @@ git pull
 
 Here is the link to [Github](https://github.com).
 
-[Go to **About me**](##about-me).
+[Go to **About me**](#about-me).
 
 [README](./README.md).
 
